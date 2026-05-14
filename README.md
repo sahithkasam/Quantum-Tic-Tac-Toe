@@ -84,10 +84,6 @@ Base URL: `http://localhost:5000/api`
 4. Collapse the board to resolve all quantum moves.
 5. Continue with classical play until a winner appears.
 
-## Screenshots
-- Add gameplay screenshots to this section after running the app.
-- Suggested: board view, circuit panel, collapse result.
-
 ## Notes
 - AI opponent only plays after quantum moves are collapsed.
 - Quantum probabilities are simulated with Qiskit Aer.
