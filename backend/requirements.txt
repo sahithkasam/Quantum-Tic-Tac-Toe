@@ -1,0 +1,4 @@
+Flask==3.0.2
+flask-cors==4.0.0
+qiskit==1.2.0
+qiskit-aer==0.14.2
